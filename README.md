@@ -1,3 +1,5 @@
+**If you are looking for Unity 6.3+ support, check out [Realtime-CSG 2.0](https://github.com/Nuklear-Interactive/Realtime-CSG-2.0)!**
+
 This github page holds the updated version of the Unity plugin Realtime-CSG
 
 If you use this plugin, please let us know, we'd love to see what you've done with it!
